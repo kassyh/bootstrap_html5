@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.row{
+    display: flex;
+    margin-right: 0px;
+    margin-left: 50px;
+}
+.ipad{
+    background-color: #333333;
+    color: #FFFFFF;
+    font: 17px;
+}
